@@ -1,5 +1,6 @@
 # NAME: perplexity
 
 payload:
-  - HOST-SUFFIX,perplexity.ai
-  - DOMAIN-KEYWORD,perplexity
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,pplx.ai
+  - DOMAIN-SUFFIX,perplexity.com
